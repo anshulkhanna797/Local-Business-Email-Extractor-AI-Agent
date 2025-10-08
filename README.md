@@ -1,4 +1,6 @@
 # Local-Business-Email-Extractor-AI-Agent
+MAKING OF PROTOTYPE AI AGENT - https://drive.google.com/file/d/14G8lkLzThX3yn_H0PcYzsyzTAN9xdJjt/view?usp=drivesdk
+
 This project is an AI-powered automation workflow built using n8n that helps collect business emails from Google Maps automatically.
 
 How It Works
